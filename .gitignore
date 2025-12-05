@@ -27,3 +27,7 @@ Thumbs.db
 
 # Logs / caches
 *.log
+
+# models
+models/*.pkl
+models/*.joblib
