@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+
+# OS trash
+.DS_Store
+Thumbs.db
+
+# Model files (you can track selectively)
+*.pth
+*.pt
+*.h5
+*.joblib
+
+# Logs / caches
+*.log
